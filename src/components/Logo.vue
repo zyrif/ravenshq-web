@@ -1,6 +1,6 @@
 <template>
   <div class="logo-container">
-    <img alt="RavensHQ logo" src="../assets/logo.png">
+    <img alt="RavensHQ logo" src="../assets/logo_new.png">
   </div>
 </template>
 
