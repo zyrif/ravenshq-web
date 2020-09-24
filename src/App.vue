@@ -7,7 +7,7 @@
 <style lang="scss">
 
 html {
-  background-color: #222;
+  background-color: #1A1A1A;
 }
 
 body {
